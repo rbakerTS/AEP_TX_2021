@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20210407</CreaDate><CreaTime>15205900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\JSONToFeatures" Date="20210407" Time="152059">JSONToFeatures C:\Work\Data\Texas\tx_boundaries\counties\tx_counties.geojson C:\Work\Data\Texas\tx_boundaries\counties\TX_Counties.shp Polygon</Process></lineage></DataProperties></Esri></metadata>
